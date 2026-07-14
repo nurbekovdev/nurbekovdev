@@ -32,10 +32,13 @@ jobs:
           USER_NAME: ${{ secrets.USER_NAME }}
         run: python today.py
       - name: Commit
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |-
           git add .
           git diff
           git config --global user.email "nurbekovdev@users.noreply.github.com"
           git config --global user.name "nurbekovdev/GitHub-Actions-Bot"
           git commit -m "Updated README" -a || echo "No changes to commit"
+          git remote set-url origin https://x-access-token:${ACCESS_TOKEN}@github.com/nurbekovdev/nurbekovdev.git
           git push
