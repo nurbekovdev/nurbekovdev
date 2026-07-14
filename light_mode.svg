@@ -17,36 +17,36 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="50">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="70">@@@bZmmmO$@@@@@@@@@@@@@@@@@@MOmmmZp@@@</tspan>
-<tspan x="15" y="90">@@@wCQLQJa@@@@@@@@@@@@@@@@@@$JQLQCZ@@@</tspan>
-<tspan x="15" y="110">@@@qL000Co@@@@@@@@@@@@@@@@@@$C000Qm@@@</tspan>
-<tspan x="15" y="130">@@@wJCCLUa@@@@@@@@@@@@@@@@@@$ULCCCO@@@</tspan>
-<tspan x="15" y="150">@@@@%%%%@*pdddpk@@@@@@apdddpa@%%%%@@@@</tspan>
-<tspan x="15" y="170">@@@@@@@@@HULCLCO@@@@@@wJLCLUa@@@@@@@@@</tspan>
-<tspan x="15" y="190">@@@@@@@@@$C0Q0Qm@@@@@@qL0Q0Ca@@@@@@@@@</tspan>
-<tspan x="15" y="210">@@@@@@@@@MC0QQLm@@@@@@qLQQ0Co@@@@@@@@@</tspan>
-<tspan x="15" y="230">@@@HaooaoqLQQQQOaoooooZQQQQLwoaooa$@@@</tspan>
-<tspan x="15" y="250">@@@mJCCCCLQQQQQQCCCCCCQQQQQQLCCCCJO@@@</tspan>
-<tspan x="15" y="270">@@@qQ0000000000000000000000000000Qw@@@</tspan>
-<tspan x="15" y="290">@@@mJCCCCCCCCCCCCCCCCCCCCCCCCCCCCJO@@@</tspan>
-<tspan x="15" y="310">@@@$khhhhhhhhhhhhhhhhhhhhhhhhhhhhko@@@</tspan>
-<tspan x="15" y="330">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="350">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="370">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="390">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="410">@@@wJLLLLLLLLLLLLLLLLLLLLLLLLLLLLCZ@@@</tspan>
-<tspan x="15" y="430">@@@qL0000000000000000000000000000Qm@@@</tspan>
-<tspan x="15" y="450">@@@wCQQQQQQQQQQQQQQQQQQQQQQQQQQQQLZ@@@</tspan>
-<tspan x="15" y="470">@@@d0ZZZZZZZZZZZZZZZZZZZZZZZZZZZZOq@@@</tspan>
-<tspan x="15" y="490">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="510">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="30">                                       </tspan>
+<tspan x="15" y="50">                                       </tspan>
+<tspan x="15" y="70">             ..... .                   </tspan>
+<tspan x="15" y="90">      .=+++====----=-:                 </tspan>
+<tspan x="15" y="110">     *%*+-::.        .-=.              </tspan>
+<tspan x="15" y="130">   .**-:::::....       .--             </tspan>
+<tspan x="15" y="150">   ++:::.:-::..         .:=-.          </tspan>
+<tspan x="15" y="170">  **-:::::.       .        :-:         </tspan>
+<tspan x="15" y="190">  -*:..  ..--::--==-=+++-:.   -.       </tspan>
+<tspan x="15" y="210">  -*.  :=+*##++++*++**##%%%+  .-       </tspan>
+<tspan x="15" y="230">  :-  +%%%%%%###%%@@@@@@@@@%+  :.      </tspan>
+<tspan x="15" y="250">  -  =%@@@@@@@@@@@@@@@@@@@@@%- ..      </tspan>
+<tspan x="15" y="270">  - .+@@@@@@@%%@@@@%#*==+++#%* ..      </tspan>
+<tspan x="15" y="290">  .. #%+-:. .:=+**+=-:..:-==*@: .      </tspan>
+<tspan x="15" y="310">   :=%*--=+=--==+#+=--:-===+#@+.       </tspan>
+<tspan x="15" y="330">   :-%*-:--...:=%@%+-.. .:-+%@.:       </tspan>
+<tspan x="15" y="350">   -.@%##*+==*%%@@@%%#***#%@@@+=:      </tspan>
+<tspan x="15" y="370">   +-@@@@@@@@@@@@@@@%%@@@@@@@@%+-      </tspan>
+<tspan x="15" y="390">   =*@@@@@@@@%@@@@@@@#%@@@@@@@#*.      </tspan>
+<tspan x="15" y="410">    *%@@@@@%%%@####+#%%@@@@%%%%:       </tspan>
+<tspan x="15" y="430">     *%%%###%@#:.-:.:#@@@%##*#:        </tspan>
+<tspan x="15" y="450">     .%####*##+=-...-+**%%#*+*         </tspan>
+<tspan x="15" y="470">      ***%*..:-===----:.-%#++=         </tspan>
+<tspan x="15" y="490">      =#+#+===+*++==-::=*#*+*:         </tspan>
+<tspan x="15" y="510">       ++*+#@%###****##%#**+-           </tspan>
 </text>
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">nurbekovdev@dev</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"></tspan><tspan class="value" id="age_data">23 years, 0 months, 0 days 🎂</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">23 years, 0 months, 0 days 🎂</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">REGOS Software</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">System Administrator</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code</tspan>
